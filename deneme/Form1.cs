@@ -107,7 +107,7 @@ namespace deneme
 
         private void timer4_Tick(object sender, EventArgs e)
         {
-            chrome4.Reload();
+            chrome4.Reload(); 
         }
 
         private void txtPanel1_TextChanged(object sender, EventArgs e)
